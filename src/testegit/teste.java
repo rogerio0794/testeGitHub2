@@ -6,7 +6,12 @@ public class teste {
 	
 		
 		
-		System.out.println("Alo mundo");
+		
+		System.out.println("Alo mundo 2");
+		
+		
+		int contador = 1;
+		System.out.println(contador);
 
 	}
 
