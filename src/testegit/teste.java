@@ -7,7 +7,7 @@ public class teste {
 		
 		
 		
-		System.out.println("Alo mundo 2");
+		System.out.println("Alo mundo 20");
 		
 		
 		int contador = 1;
